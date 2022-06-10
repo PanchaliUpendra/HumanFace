@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HumanFace/static/css/main.70781e2f.css",
+    "main.js": "/HumanFace/static/js/main.6b059e34.js",
+    "index.html": "/HumanFace/index.html",
+    "main.70781e2f.css.map": "/HumanFace/static/css/main.70781e2f.css.map",
+    "main.6b059e34.js.map": "/HumanFace/static/js/main.6b059e34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70781e2f.css",
+    "static/js/main.6b059e34.js"
+  ]
+}
