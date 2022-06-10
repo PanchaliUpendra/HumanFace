@@ -1,0 +1,12 @@
+.kard{
+    border: 5px;
+    border-color: red;
+    background-color:rgb(224, 195, 251) ;
+    margin: 10px;
+    position: inherit;
+    text-align: center;
+    box-shadow: 5px;
+}
+.fullname{
+    background-color: aquamarine;
+}
